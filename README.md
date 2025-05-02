@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **chrislian500@gmail.com**
 
+- 👉 You can check my Codepen projects at https://codepen.io/chris22lian
+
 - ⚡ Fun fact **JavaScript is fun**
 
 
