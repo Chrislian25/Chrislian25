@@ -9,12 +9,7 @@
 
 - 📫 How to reach me **chrislian500@gmail.com**
 
-- 👉 You can check my Codepen projects at https://codepen.io/chris22lian
-
 - ⚡ Fun fact **JavaScript is fun**
-
-
-Everyday I am eager to learn something new and improve my skills based on programming , I am interesting collborating with teams and do fun , interesting and real life working projects. Right now I am working on a few projects based on Javascript , C++ and Python. Also I am now learning more about Github as I should've before , a lot of projects will be updated in github. 
 
 
 
